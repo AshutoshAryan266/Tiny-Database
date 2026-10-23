@@ -1,0 +1,11 @@
+# Compiled executable
+main.exe
+
+# Temporary test data
+Student.csv
+EmployeeTest.csv
+TestZero.csv
+TestDuplicateColumns.csv
+
+# Build output
+*.o
